@@ -1,0 +1,133 @@
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+
+/*fonts
+font-family: 'Libre Baskerville', serif;
+Normal 400
+Normal 400 Italic
+Bold 700 
+
+
+font-family: 'Pacifico', cursive;
+*/
+
+@font-face {
+    font-family: 'GrutchShadedRegular';
+    src: url('../fonts/grutchshaded.eot');
+    src: url('../fonts/grutchshaded.eot') format('embedded-opentype'),
+         url('../fonts/grutchshaded.woff') format('woff'),
+         url('../fonts/grutchshaded.ttf') format('truetype'),
+         url('../fonts/grutchshaded.svg#GrutchShadedRegular') format('svg');
+}
+@font-face {
+    font-family: 'DINNeuzeitGroteskBoldCondRegular';
+    src: url('../fonts/dinne-grovtest-bcond.eot');
+    src: url('../fonts/dinne-grovtest-bcond.eot') format('embedded-opentype'),
+         url('../fonts/dinne-grovtest-bcond.woff') format('woff'),
+         url('../fonts/dinne-grovtest-bcond.ttf') format('truetype'),
+         url('../fonts/dinne-grovtest-bcond.svg#DINNeuzeitGroteskBoldCondRegular') format('svg');
+}
+@font-face {
+    font-family: 'KravitzExtraThermalRegular';
+    src: url('../fonts/kravet__.eot');
+    src: url('../fonts/kravet__.eot') format('embedded-opentype'),
+         url('../fonts/kravet__.woff') format('woff'),
+         url('../fonts/kravet__.ttf') format('truetype'),
+         url('../fonts/kravet__.svg#KravitzExtraThermalRegular') format('svg');
+}
+@font-face {
+    font-family: 'LaoUIRegular';
+    src: url('../fonts/laoui.eot');
+    src: url('../fonts/laoui.eot') format('embedded-opentype'),
+         url('../fonts/laoui.woff') format('woff'),
+         url('../fonts/laoui.ttf') format('truetype'),
+         url('../fonts/laoui.svg#LaoUIRegular') format('svg');
+}
+@font-face {
+    font-family: 'CreativeBlockBBRegular';
+    src: url('../fonts/creabbrg.eot');
+    src: url('../fonts/creabbrg.eot') format('embedded-opentype'),
+         url('../fonts/creabbrg.woff') format('woff'),
+         url('../fonts/creabbrg.ttf') format('truetype'),
+         url('../fonts/creabbrg.svg#CreativeBlockBBRegular') format('svg');
+}
+@font-face {
+    font-family: 'DosisRegular';
+    src: url('../fonts/dosis-regular.eot');
+    src: url('../fonts/dosis-regular.eot') format('embedded-opentype'),
+         url('../fonts/dosis-regular.woff') format('woff'),
+         url('../fonts/dosis-regular.ttf') format('truetype'),
+         url('../fonts/dosis-regular.svg#DosisRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'PoorRichardRegular';
+    src: url('../fonts/poor-richard.eot');
+    src: url('../fonts/poor-richard.eot') format('embedded-opentype'),
+         url('../fonts/poor-richard.woff') format('woff'),
+         url('../fonts/poor-richard.ttf') format('truetype'),
+         url('../fonts/poor-richard.svg#PoorRichardRegular') format('svg');
+}
+@font-face {
+    font-family: 'AgendaBold';
+    src: url('../fonts/agenda-bold.eot');
+    src: url('../fonts/agenda-bold.eot') format('embedded-opentype'),
+         url('../fonts/agenda-bold.woff') format('woff'),
+         url('../fonts/agenda-bold.ttf') format('truetype'),
+         url('../fonts/agenda-bold.svg#AgendaBold') format('svg');
+}
+@font-face {
+    font-family: 'LibreBaskervilleRegular';
+    src: url('../fonts/librebaskerville-regular.eot');
+    src: url('../fonts/librebaskerville-regular.eot') format('embedded-opentype'),
+         url('../fonts/librebaskerville-regular.woff') format('woff'),
+         url('../fonts/librebaskerville-regular.ttf') format('truetype'),
+         url('../fonts/librebaskerville-regular.svg#LibreBaskervilleRegular') format('svg');
+}
+@font-face {
+    font-family: 'LibreBaskervilleBold';
+    src: url('../fonts/librebaskerville-bold.eot');
+    src: url('../fonts/librebaskerville-bold.eot') format('embedded-opentype'),
+         url('../fonts/librebaskerville-bold.woff') format('woff'),
+         url('../fonts/librebaskerville-bold.ttf') format('truetype'),
+         url('../fonts/librebaskerville-bold.svg#LibreBaskervilleBold') format('svg');
+}
+@font-face {
+    font-family: 'LibreBaskervilleItalic';
+    src: url('../fonts/librebaskerville-italic.eot');
+    src: url('../fonts/librebaskerville-italic.eot') format('embedded-opentype'),
+         url('../fonts/librebaskerville-italic.woff') format('woff'),
+         url('../fonts/librebaskerville-italic.ttf') format('truetype'),
+         url('../fonts/librebaskerville-italic.svg#LibreBaskervilleItalic') format('svg');
+}
+@font-face {
+    font-family: 'TimelessRegular';
+    src: url('../fonts/timeless.eot');
+    src: url('../fonts/timeless.eot') format('embedded-opentype'),
+         url('../fonts/timeless.woff') format('woff'),
+         url('../fonts/timeless.ttf') format('truetype'),
+         url('../fonts/timeless.svg#TimelessRegular') format('svg');
+}
+@font-face {
+    font-family: 'HotelCoralEssexRegular';
+    src: url('../fonts/hotel-coral-essex.eot');
+    src: url('../fonts/hotel-coral-essex.eot') format('embedded-opentype'),
+         url('../fonts/hotel-coral-essex.woff') format('woff'),
+         url('../fonts/hotel-coral-essex.ttf') format('truetype'),
+         url('../fonts/hotel-coral-essex.svg#HotelCoralEssexRegular') format('svg');
+}
+@font-face {
+    font-family: 'TrebuchetMSRegular';
+    src: url('../fonts/trebuc_0.eot');
+    src: url('../fonts/trebuc_0.eot') format('embedded-opentype'),
+         url('../fonts/trebuc_0.woff') format('woff'),
+         url('../fonts/trebuc_0.ttf') format('truetype'),
+         url('../fonts/trebuc_0.svg#TrebuchetMSRegular') format('svg');
+}
+@font-face {
+    font-family: 'AmerTypeMdBTMedium';
+    src: url('../fonts/american-medium.eot');
+    src: url('../fonts/american-medium.eot') format('embedded-opentype'),
+         url('../fonts/american-medium.woff') format('woff'),
+         url('../fonts/american-medium.ttf') format('truetype'),
+         url('../fonts/american-medium.svg#AmerTypeMdBTMedium') format('svg');
+}
