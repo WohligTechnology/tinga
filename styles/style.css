@@ -183,9 +183,10 @@ img#topMumbai {position: absolute;z-index: 2;top: -8.458px; left: 177.95px;}
 .topSocialmedia ul li .twitter{width:41px; height:39px; background:url(../images/social-media/toptwitter.png) center top no-repeat; display:block;}
 .topSocialmedia ul li .linkedin{width:41px; height:38px; background:url(../images/social-media/linkedin.png) center top no-repeat; display:block; margin-top:1px;}
 .topSocialmedia ul li .pinterest{width:41px; height:39px; background:url(../images/social-media/pinterest.png) center top no-repeat; display:block; margin-top:1px;}
-.topSocialmedia ul li .pinterest{width:41px; height:39px; background:url(../images/social-media/pinterest.png) center top no-repeat; display:block; margin-top:1px;}
-.topSocialmedia ul li .blog{width:41px; height:39px; background:url(../images/social-media/blog.png) center top no-repeat; display:block;}
-.topSocialmedia ul li .instagram{width:41px; height:38px; background:url(../images/social-media/instagram.png) center top no-repeat; display:block;}
+.topSocialmedia ul li .google{width:41px; height:32px; background:url(../images/social-media/google.png) center top no-repeat; display:block; margin-top:1px;}
+.topSocialmedia ul li .blog{width:41px; height:39px; background:url(../images/social-media/blog.png) center top no-repeat; display:block;; margin-top:1px;}
+.topSocialmedia ul li .instagram{width:41px; height:38px; background:url(../images/social-media/instagram.png) center top no-repeat; display:block;; margin-top:1px;}
+/*.topSocialmedia ul li .google{width:41px; height:38px; background:url(../images/social-media/google.png) center top no-repeat; display:block;}*/
 .topSocialmedia ul li .youtube{width:41px; height:38px; background:url(../images/social-media/youtube.png) center top no-repeat; display:block;}
 
 /*Page menu*/
